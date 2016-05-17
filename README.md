@@ -6,8 +6,11 @@
 
 # 2016-04
 - LINE: Large-scale Information Network Embedding
-- PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
+- [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://chara.cs.illinois.edu/sites/cs591txt/files/0408-presentation.pdf)
 
 # 2016-03
-- Co-Author Relationship Prediction in Heterogeneous Bibliographic Networks
+- [Link Prediction in Social Networks](https://uofi.box.com/s/nhgzf85bytamdglppbjgc0h4gkzq5zyo)
+
+# 2016-02
+- Co-Author Relationship Prediction in Heterogeneous Bibliographic Networks [[link](http://www.ccs.neu.edu/home/yzsun/papers/asonam11_pathpredict.pdf)]
 
