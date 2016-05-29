@@ -1,13 +1,12 @@
 ## [Continuous Control with Deep Reinforcement Learning](http://arxiv.org/pdf/1509.02971v5.pdf)
 
-TLDR; The authors have developed a network that can control simulated physical events via reinforcement learning. Their previous work with deep Q-networks learned to play Atari games via [Deep Q-learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). However, this cannot work for real systems because the action space is (essentially) infinite since 3D space is continuous.
+TLDR; The authors have developed a network that can control simulated physical events via reinforcement learning. Their previous work with deep Q-networks learned to play Atari games via [Q-learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). However, this cannot work for real systems because the action space is (essentially) infinite since 3D space is continuous.
 
 
 #### Key Points
 
-
 - combined a previous approach, Deterministic Policy Gradient(DPG) for learning continuous action spaces with DQN to form Deep DPG(DDPG)
-- DDPG learns policies using low-dimensional observations.
+- DDPG learns policies using low-dimensional observations using an actor-critic architecture
 - virtual robots which learn to perform the task themselves are controlled by the same network via the same set of parameters
 - improved stability in the system 
 - virtual robots are used since it takes 2.5 million steps of experience for training in a virtual environment
