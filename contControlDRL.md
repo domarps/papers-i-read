@@ -22,5 +22,5 @@ TL;DR The authors have developed a network that can control simulated physical e
 - Nearly 2.5 million steps needed for learning the basic rules of the system for practical applications
 - If the original Deep Q-network problem is converted to a continuous one by mapping each button to the 0-1 interval, how will DDPG compare?
 - Adapting this method to continuous tasks typically requires optimizing two function approximators on different objectives.
-- This continuous action space _differs_ from the natural language action space in that the action space is known. In the [DRRN approach](https://github.com/domarps/papers-i-read/blob/master/DRRN.md), the action space is inherently discrete although a continuous representation of it has been learnt.
+- This continuous action space `differs` from the natural language action space in that the action space is known. In the [DRRN approach](https://github.com/domarps/papers-i-read/blob/master/DRRN.md), the action space is inherently discrete although a continuous representation of it has been learnt.
 - Another continuous variant of the Q-learning algorithm, Normalized Advantage Functions(NAF) is a considerably simpler alternative than DDPG.
