@@ -1,6 +1,6 @@
 ## [Continuous Control with Deep Reinforcement Learning](http://arxiv.org/pdf/1509.02971v5.pdf)
 
-TLDR; The authors have developed a network that can control simulated physical events via reinforcement learning. Their previous work with deep Q-networks learned to play Atari games via Q-learning. However, this cannot work for real systems because the action space is (essentially) infinite since 3D space is continuous.
+TLDR; The authors have developed a network that can control simulated physical events via reinforcement learning. Their previous work with deep Q-networks learned to play Atari games via [Deep Q-learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). However, this cannot work for real systems because the action space is (essentially) infinite since 3D space is continuous.
 
 
 #### Key Points
