@@ -7,10 +7,8 @@ TL;DR The authors have developed a network that can control simulated physical e
 
 - `Model-Free Reinforcement Learning`: system dynamics are not known
 - `continuous action problems` require Q-learning to maximize a complex, non-linear function at each update
-- `actor-critic architecture` assigns a separate parameter ``actor`` policy  \Pi
-- 
+- `actor-critic architecture` assigns a separate parameter `actor` policy
 - `Deep DPG(DDPG)`combined a previous approach, Deterministic Policy Gradient(DPG) with DQN
-- 
 - The off-policy algorithm is preferred over policy gradient methods  which can succeed only on high-dimensional problems requiring a large sample space.
 - DDPG learns policies using low-dimensional observations using an actor-critic architecture
 - virtual robots which learn to perform the task themselves are controlled by the same network via the same set of parameters
