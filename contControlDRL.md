@@ -5,7 +5,7 @@ TL;DR The authors have developed a network that can control simulated physical e
 
 #### Key Points
 
-- _Model-Free Reinforcement Learning_: system dynamics are not known 
+- _Model-Free Reinforcement Learning_ : system dynamics are not known 
 - 
 - combined a previous approach, Deterministic Policy Gradient(DPG) for learning continuous action spaces with DQN to form Deep DPG(DDPG)
 - The off-policy algorithm is preferred over policy gradient methods  which can succeed only on high-dimensional problems requiring a large sample space.
