@@ -7,13 +7,14 @@ Can learn time series with long lags between events.
 A part of the state of the art deep learning models for recognition of sequences eg: speech or handwriting
 A deep RNN network that can contain several LSTM layers stacked on each other
 
-Four inputs -- Three Gates 
-Output Gate
-Input Gate
-Forget Gate controls the previous state of the cell impacting on the next state
+Four inputs -- 
+
+Three Gates 
+ - Output Gate
+ - Input Gate
+ - Forget Gate controls the previous state of the cell impacting on the next state
 
 sigmoid or tanh(full signal or zero energy)
-
 
 LSTM Layer with Projection
 
