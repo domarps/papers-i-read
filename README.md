@@ -1,5 +1,5 @@
 # 2016-06
-- [Deep Learning framework for NLP]
+- [Deep Compression - ICLR'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/deepCompression.md)[[arXiv](http://arxiv.org/abs/1510.00149)]
 - [Sage: Recommender engine as a cloud service](https://github.com/domarps/papers-i-read/blob/master/Sage.md)[[ACM](http://dl.acm.org/citation.cfm?id=2508221)]
 
 # 2016-05
