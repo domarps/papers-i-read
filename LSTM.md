@@ -1,8 +1,6 @@
-Low Rank Approximation with SVD of weight matrices
-==================================================
+Long Short Term Memory Networks
+===============================
 
-
-LSTM Layers
 Can learn time series with long lags between events.
 A part of the state of the art deep learning models for recognition of sequences eg: speech or handwriting
 A deep RNN network that can contain several LSTM layers stacked on each other
