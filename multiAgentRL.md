@@ -48,7 +48,9 @@ Experiments
 
 ![experiments](https://cloud.githubusercontent.com/assets/7057078/16018522/a523e3ae-3159-11e6-8417-43907d495887.PNG)
 
-Inverting Gradients -- can we use eligibility traces for update targets? Need to acquire the Monte-Carlo HV,LB approach as well stay computationally efficient.
+Inverting Gradients -- can we use eligibility traces for update targets? 
+
+Need to acquire the Monte-Carlo HV,LB approach as well stay computationally efficient.
 
 ![invertinggradients](https://cloud.githubusercontent.com/assets/7057078/16018553/cd0a5a24-3159-11e6-9b65-29415968a7d3.PNG)
 
@@ -86,5 +88,4 @@ Reducing sample complexity but learn better policies, Non-differenitable compone
     * trade-off between TD methods to estimate Q-values v/s policy methods
 - The critic must know [ToDo]
 - Loss may not be able to tell you that you have converged.
-- 
 
