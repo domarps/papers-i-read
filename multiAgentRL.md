@@ -50,9 +50,7 @@ Note: observe the view cones. The exact positions and the velocities of the agen
 
 ![off-policy Monte Carlo](https://cloud.githubusercontent.com/assets/7057078/16018684/6160a1e2-315a-11e6-8de3-7ebdce2583ec.png)
 
-
 ![multiagentrl](https://cloud.githubusercontent.com/assets/7057078/16018837/17e4e07c-315b-11e6-84f7-3ff9316ccbdb.PNG)
-
 
 More challenging as the action space is twice as large ~ learning to write : we have two hands but you use only 1 to write.
 
@@ -60,5 +58,23 @@ More challenging as the action space is twice as large ~ learning to write : we 
 
 ![parametersharing](https://cloud.githubusercontent.com/assets/7057078/16018914/6c2b206a-315b-11e6-9f85-29bd03de90e0.PNG)
 
-#### Notes/Questions
+![relatedwork](https://cloud.githubusercontent.com/assets/7057078/16019006/cd908980-315b-11e6-9e9a-d83caa251f11.PNG)
+
+![futuredirections](https://cloud.githubusercontent.com/assets/7057078/16019043/ea0fc026-315b-11e6-96f2-ab6b7029d241.PNG)
+
+Reducing sample complexity but learn better policies, Non-differenitable components in RNN
+
+![futuredirections-ii](https://cloud.githubusercontent.com/assets/7057078/16019070/077ae42e-315c-11e6-95b0-ffc952db5a0d.PNG)
+
+
+#### Discussion(Notes/Questions):
+- Instead of all joint space taking up exponential complexity
+- Idea is to have a sequence of tasks to learn, curriculum to learn. promising direction for shaping rewards
+- Implementation Question : mini-batch of size 32, number of steps 10 for backprop.
+- Training time : LSTM receives a single frame with 10 time steps.
+- RL is a little slower to learn policies, flexible to learn non-differentiabilties.
+- Determistic Policy Gradient vs Stochastic Gradient
+    * to address continuous action spaces
+    * trade-off between TD methods to estimate Q-values v/s policy methods
+- 
 
