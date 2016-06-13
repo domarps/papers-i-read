@@ -24,6 +24,14 @@ Presentation Outline
 
 ![outline](https://cloud.githubusercontent.com/assets/7057078/16018753/b178577e-315a-11e6-8e5e-9f1da9a48aea.PNG)
 
+Lillicrap's DDPG
+
+![ddpg](https://cloud.githubusercontent.com/assets/7057078/16019295/220d85a2-315d-11e6-8093-8ad5e4b5bf55.PNG)
+
+Training 
+
+![training](https://cloud.githubusercontent.com/assets/7057078/16019257/e6207c2a-315c-11e6-9a96-3dce35e8a3ca.PNG)
+
 Q-Learning Spectrum
 
 ![q-learning spectrum](https://cloud.githubusercontent.com/assets/7057078/16018336/f6e27904-3158-11e6-96fb-0a3a9ba92d0b.PNG)
@@ -76,5 +84,7 @@ Reducing sample complexity but learn better policies, Non-differenitable compone
 - Determistic Policy Gradient vs Stochastic Gradient
     * to address continuous action spaces
     * trade-off between TD methods to estimate Q-values v/s policy methods
+- The critic must know [ToDo]
+- Loss may not be able to tell you that you have converged.
 - 
 
