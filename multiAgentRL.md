@@ -24,6 +24,30 @@ Presentation Outline
 
 ![outline](https://cloud.githubusercontent.com/assets/7057078/16018753/b178577e-315a-11e6-8e5e-9f1da9a48aea.PNG)
 
+Markov Decision Process
+
+Simply observe the current state - learn the action to execute.
+
+Partially Observable MDP
+
+Instead of receiving the full state of the world, the agent only receives observations(which may be noisy and incomplete) -- the agent still performs actions a<sub>t</sub> and rewards r<sub>t</sub>.
+
+![pomdp](https://cloud.githubusercontent.com/assets/7057078/16065909/9ca39a02-3263-11e6-9eb2-9023c5d0b2c5.PNG)
+
+Introductory slide on RL
+
+![RL](https://cloud.githubusercontent.com/assets/7057078/16065938/df2fef2e-3263-11e6-8b5a-52a014b7ff19.PNG)
+
+Q-Value Function : Expected sum of $gamma$ discounted rewards from taking action a in state s. 
+
+An optimal Q function yields an optimal policy -- it is important correctly estimate the every action from every state -- so that it is easy to learn to act optimally by simply choosing the action that maximizes the Q-function for each state.
+
+![Q-value](https://cloud.githubusercontent.com/assets/7057078/16066220/4b774fe0-3266-11e6-869c-6dba45ae35bd.png)
+
+Deep Neural Networks
+
+![dnn](https://cloud.githubusercontent.com/assets/7057078/16066251/926bdbe6-3266-11e6-843b-085a7efe8456.PNG)
+
 Lillicrap's DDPG
 
 ![ddpg](https://cloud.githubusercontent.com/assets/7057078/16019295/220d85a2-315d-11e6-8093-8ad5e4b5bf55.PNG)
