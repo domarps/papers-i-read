@@ -110,6 +110,18 @@ Observe the view cones. The exact positions and the velocities of the agents are
 
 ![training](https://cloud.githubusercontent.com/assets/7057078/16019257/e6207c2a-315c-11e6-9a96-3dce35e8a3ca.PNG)
 
+##### Approaches to bound the DDPG action space
+
+- Squashing Gradients   
+
+        ![squashinggradients](https://cloud.githubusercontent.com/assets/7057078/16068066/73783818-3277-11e6-9b9a-20df93dfb798.PNG)
+
+- Zero Gradients
+        ![zeroinggradients](https://cloud.githubusercontent.com/assets/7057078/16068086/ad9a0616-3277-11e6-8c98-95c1d4ac57fe.PNG)
+
+- Invert Gradients
+        ![invertinggradients](https://cloud.githubusercontent.com/assets/7057078/16018553/cd0a5a24-3159-11e6-9b65-29415968a7d3.PNG)
+
 ##### Q-Learning Spectrum
 
 ![q-learning spectrum](https://cloud.githubusercontent.com/assets/7057078/16018336/f6e27904-3158-11e6-96fb-0a3a9ba92d0b.PNG)
@@ -118,7 +130,7 @@ Observe the view cones. The exact positions and the velocities of the agents are
 
 ![overview](https://cloud.githubusercontent.com/assets/7057078/16018374/181f40de-3159-11e6-8e15-e399fc17f1a0.PNG)
 
-##### Monte-Carlo seminar
+##### Monte-Carlo 
 
 ![monte-carlo](https://cloud.githubusercontent.com/assets/7057078/16018400/35a3a0dc-3159-11e6-9106-640b34b67b95.PNG)
 
