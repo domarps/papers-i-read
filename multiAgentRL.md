@@ -20,59 +20,62 @@ Hierarchial RL : possibility to observe different goal states.
 
 #### Key Slides from the seminar:
 
-Presentation Outline
+##### Presentation Outline
 
-![outline](https://cloud.githubusercontent.com/assets/7057078/16018753/b178577e-315a-11e6-8e5e-9f1da9a48aea.PNG)
+![outline](https://cloud.githubusercontent.com/assets/7057078/16066490/92b1dd92-3268-11e6-9363-6ef823365a59.PNG)
 
-Markov Decision Process
+##### Markov Decision Process
 
 Simply observe the current state - learn the action to execute.
 
-Partially Observable MDP
+##### Partially Observable MDP
 
 Instead of receiving the full state of the world, the agent only receives observations(which may be noisy and incomplete) -- the agent still performs actions a<sub>t</sub> and rewards r<sub>t</sub>.
 
 ![pomdp](https://cloud.githubusercontent.com/assets/7057078/16065909/9ca39a02-3263-11e6-9eb2-9023c5d0b2c5.PNG)
 
-Introductory slide on RL
+##### Introductory slide on RL
 
 ![RL](https://cloud.githubusercontent.com/assets/7057078/16065938/df2fef2e-3263-11e6-8b5a-52a014b7ff19.PNG)
 
-Q-Value Function : Expected sum of $gamma$ discounted rewards from taking action a in state s. 
+##### Q-Value Function : Expected sum of $gamma$ discounted rewards from taking action a in state s. 
 
 An optimal Q function yields an optimal policy -- it is important correctly estimate the every action from every state -- so that it is easy to learn to act optimally by simply choosing the action that maximizes the Q-function for each state.
 
 ![Q-value](https://cloud.githubusercontent.com/assets/7057078/16066220/4b774fe0-3266-11e6-869c-6dba45ae35bd.png)
 
-Deep Neural Networks
+##### Deep Neural Networks
 
 ![dnn](https://cloud.githubusercontent.com/assets/7057078/16066251/926bdbe6-3266-11e6-843b-085a7efe8456.PNG)
 
-Lillicrap's DDPG
+##### Recurrent Q-Learning for POMDPs -- The Atari Environment
+
+
+##### Lillicrap's DDPG
 
 ![ddpg](https://cloud.githubusercontent.com/assets/7057078/16019295/220d85a2-315d-11e6-8093-8ad5e4b5bf55.PNG)
 
-Training 
+##### Training 
 
 ![training](https://cloud.githubusercontent.com/assets/7057078/16019257/e6207c2a-315c-11e6-9a96-3dce35e8a3ca.PNG)
 
-Q-Learning Spectrum
+##### Q-Learning Spectrum
 
 ![q-learning spectrum](https://cloud.githubusercontent.com/assets/7057078/16018336/f6e27904-3158-11e6-96fb-0a3a9ba92d0b.PNG)
 
-Low Bias, High Variance Q-learning v/s High Bias, Low Variance Q-learning
+##### Low Bias, High Variance Q-learning v/s High Bias, Low Variance Q-learning
 
 ![overview](https://cloud.githubusercontent.com/assets/7057078/16018374/181f40de-3159-11e6-8e15-e399fc17f1a0.PNG)
 
-Monte-Carlo seminar
+##### Monte-Carlo seminar
 
 ![monte-carlo](https://cloud.githubusercontent.com/assets/7057078/16018400/35a3a0dc-3159-11e6-9106-640b34b67b95.PNG)
 
-Experiments
+##### Experiments
 
 ![experiments](https://cloud.githubusercontent.com/assets/7057078/16018522/a523e3ae-3159-11e6-8417-43907d495887.PNG)
 
-Inverting Gradients -- can we use eligibility traces for update targets? 
+##### Inverting Gradients -- can we use eligibility traces for update targets? 
 
 Need to acquire the Monte-Carlo HV,LB approach as well stay computationally efficient.
 
@@ -92,10 +95,12 @@ More challenging as the action space is twice as large ~ learning to write : we 
 
 ![parametersharing](https://cloud.githubusercontent.com/assets/7057078/16018914/6c2b206a-315b-11e6-9f85-29bd03de90e0.PNG)
 
+#### Related Work
+
 ![relatedwork](https://cloud.githubusercontent.com/assets/7057078/16019006/cd908980-315b-11e6-9e9a-d83caa251f11.PNG)
 
-![futuredirections](https://cloud.githubusercontent.com/assets/7057078/16019043/ea0fc026-315b-11e6-96f2-ab6b7029d241.PNG)
 
+#### Future Directions
 Reducing sample complexity but learn better policies, Non-differenitable components in RNN
 
 ![futuredirections-ii](https://cloud.githubusercontent.com/assets/7057078/16019070/077ae42e-315c-11e6-95b0-ffc952db5a0d.PNG)
