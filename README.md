@@ -1,5 +1,5 @@
 ## 2016-06
-- [Monte Carlo Bayesian Reinforcement Learning]() [[arXiV](http://arxiv.org/abs/1206.6449)]
+- [Monte Carlo Bayesian Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/MonteCarloBayesianRL.md) [[arXiV](http://arxiv.org/abs/1206.6449)]
 - [Control of Memory, Active Perception, and Action in Minecraft] [[arXiV](http://arxiv.org/abs/1605.09128)]
 - [Deep Multiagent Reinforcement Learning for Partially Observable Parameterized Environments](https://github.com/domarps/papers-i-read/blob/master/multiAgentRL.md) [[arXiv](http://arxiv.org/pdf/1511.04143.pdf)]
 - [Deep Compression - ICLR'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/deepCompression.md) [[arXiv](http://arxiv.org/abs/1510.00149)]
