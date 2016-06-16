@@ -114,7 +114,7 @@ Observe the view cones. The exact positions and the velocities of the agents are
 
 - Squashing Gradients   
 
-        ![squashinggradients](https://cloud.githubusercontent.com/assets/7057078/16068066/73783818-3277-11e6-9b9a-20df93dfb798.PNG)
+       ![squashinggradients](https://cloud.githubusercontent.com/assets/7057078/16124275/2986f05a-33a3-11e6-9027-fc185637ce8d.PNG)
 
 - Zero Gradients
         ![zeroinggradients](https://cloud.githubusercontent.com/assets/7057078/16068086/ad9a0616-3277-11e6-8c98-95c1d4ac57fe.PNG)
