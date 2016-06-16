@@ -1,4 +1,4 @@
-Deep Compression, DSD training and EIE: deep neural network model compression, regularization and hardware acceleration 
+[Deep Compression, DSD training and EIE: deep neural network model compression, regularization and hardware acceleration](https://www.youtube.com/watch?v=kQAhW9gh6aU)
 ========================================================================================================================
 
 #### TL;DR
