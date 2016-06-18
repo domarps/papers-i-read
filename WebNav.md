@@ -1,6 +1,6 @@
 ## [WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making](http://arxiv.org/abs/1602.02261)
 
-TLDR; The authors propose a web navigation task where an agent must find a target page containing a search query (typically a few sentences) by navigating a web graph with restrictions on memory, path length and number of exlorable nodes. Tey train Feedforward and Recurrent Neural Networks and evaluate their performance against that of human volunteers.
+TLDR; The authors propose a web navigation task where an agent must find a target page containing a search query (typically a few sentences) by navigating a web graph with restrictions on memory, path length and number of exlorable nodes. They train Feedforward and Recurrent Neural Networks and evaluate their performance against that of human volunteers.
 
 
 #### Key Points
