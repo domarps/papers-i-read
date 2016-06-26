@@ -1,4 +1,5 @@
 ## 2016-06
+- [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/asyncMethodsDRL.md) [[arXiv](https://arxiv.org/abs/1602.01783)]
 - [Dueling Network Architectures for Deep Reinforcement Learning - ICML'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/duelingNetworkArch.md) [[arXiv](http://arxiv.org/abs/1511.06581)]
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/domarps/papers-i-read/blob/master/doubleQLearning.md) [[arXiv](http://arxiv.org/abs/1509.06461)]
 - [Monte Carlo Bayesian Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/MonteCarloBayesianRL.md) [[arXiV](http://arxiv.org/abs/1206.6449)]
