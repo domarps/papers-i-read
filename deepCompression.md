@@ -28,3 +28,5 @@ Neural networks are both computationally intensive and memory intensive, making 
 ![weightsharing-ii](https://cloud.githubusercontent.com/assets/7057078/15988125/4edc1bf8-2ff9-11e6-8fb3-fe811cc20d3d.PNG)
 ![weightsharing-iii](https://cloud.githubusercontent.com/assets/7057078/15988126/4edfabba-2ff9-11e6-9b6a-93257966acae.PNG)
 
+####References:
+* [SqueezeNet Code](https://github.com/songhan/SqueezeNet-Deep-Compression)
