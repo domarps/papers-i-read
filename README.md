@@ -2,11 +2,9 @@
 - [Dueling Network Architectures for Deep Reinforcement Learning - ICML'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/duelingNetworkArch.md) [[arXiv](http://arxiv.org/abs/1511.06581)]
 - [Deep Reinforcement Learning with Double Q-learning](https://github.com/domarps/papers-i-read/blob/master/doubleQLearning.md) [[arXiv](http://arxiv.org/abs/1509.06461)]
 - [Monte Carlo Bayesian Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/MonteCarloBayesianRL.md) [[arXiV](http://arxiv.org/abs/1206.6449)]
-- [Control of Memory, Active Perception, and Action in Minecraft] [[arXiV](http://arxiv.org/abs/1605.09128)]
+- [Control of Memory, Active Perception, and Action in Minecraft](https://github.com/domarps/papers-i-read/blob/master/mineCraft.md) [[arXiV](http://arxiv.org/abs/1605.09128)]
 - [Deep Multiagent Reinforcement Learning for Partially Observable Parameterized Environments](https://github.com/domarps/papers-i-read/blob/master/multiAgentRL.md) [[arXiv](http://arxiv.org/pdf/1511.04143.pdf)]
 - [Deep Compression - ICLR'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/deepCompression.md) [[arXiv](http://arxiv.org/abs/1510.00149)]
-- [Sage: Recommender engine as a cloud service](https://github.com/domarps/papers-i-read/blob/master/Sage.md) [[ACM](http://dl.acm.org/citation.cfm?id=2508221)]
-
 ## 2016-05
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/contControlDRL.md) [[arXiv](http://arxiv.org/abs/1509.02971)]
 - [Playing Atari with Deep Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/playingAtari.md) [[arXiv](https://arxiv.org/abs/1312.5602)]
