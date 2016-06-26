@@ -4,7 +4,7 @@
 #### TL;DR
 Neural networks are both computationally intensive and memory intensive, making them difficult to deploy on mobile phones and embedded systems with limited hardware resources. To address this limitation, “Deep Compression” is developed to compress the deep neural networks by 10x-49x without loss of prediction accuracy. The authors claim that the "Dense-Sparse-Dense" training method regularizes CNN/RNN/LSTMs to improve the prediction accuracy of a wide range of neural networks given the same model size. The "Efficient Inference Engine" works directly on the deep-compressed DNN model and accelerates the inference, taking advantage of weight sparsity, activation sparsity and weight sharing, which is 13x faster and 3000x more energy efficient than a TitanX GPU.
 
-#### Slides I understood(or hope to understand :v: : 
+#### Slides I understood(or hope to understand): 
 ![bitsperweight](https://cloud.githubusercontent.com/assets/7057078/15988105/4eae4fb6-2ff9-11e6-8692-bd856fd91e24.PNG)
 ![deepcompression-i](https://cloud.githubusercontent.com/assets/7057078/15988108/4eaed4f4-2ff9-11e6-8e49-63d52fed8366.PNG)
 ![deepcompression-pipeline](https://cloud.githubusercontent.com/assets/7057078/15988107/4eaee0f2-2ff9-11e6-8d05-690dbc56415d.PNG)
