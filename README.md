@@ -9,6 +9,7 @@
 - [Deep Multiagent Reinforcement Learning for Partially Observable Parameterized Environments](https://github.com/domarps/papers-i-read/blob/master/multiAgentRL.md) [[arXiv](http://arxiv.org/pdf/1511.04143.pdf)]
 - [Deep Compression - ICLR'16 Best Paper Award](https://github.com/domarps/papers-i-read/blob/master/deepCompression.md) [[arXiv](http://arxiv.org/abs/1510.00149)]
 - [Quoc Le's Tutorials on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/) [[Tutorial1](https://cs.stanford.edu/~quocle/tutorial1.pdf)] [[Tutorial2](https://cs.stanford.edu/~quocle/tutorial2.pdf)]
+- [Sequence to Sequence Learning with Neural Networks](seq2Seq.md)[[arXiv](https://arxiv.org/abs/1409.3215)]
 
 ## 2016-05
 - [Continuous Control with Deep Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/contControlDRL.md) [[arXiv](http://arxiv.org/abs/1509.02971)]
