@@ -1,4 +1,5 @@
 ## 2016-06
+- [Trust Region Policy Optimization](https://github.com/domarps/papers-i-read/blob/master/trustBasedOptimization.md) [[arXiv](https://arxiv.org/abs/1502.05477)]
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://github.com/domarps/papers-i-read/blob/master/end-to-end-LSTM.md) [[arXiv](https://arxiv.org/abs/1606.01269#)]
 - [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/domarps/papers-i-read/blob/master/contDeepRL.md) [[arXiv](http://arxiv.org/abs/1603.00748)]
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/domarps/papers-i-read/blob/master/asyncMethodsDRL.md) [[arXiv](https://arxiv.org/abs/1602.01783)]
