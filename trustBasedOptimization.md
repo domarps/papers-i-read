@@ -28,7 +28,7 @@ Consider a Markov Decision Process (MDP)
 ![image](https://cloud.githubusercontent.com/assets/7057078/16592330/0be48af2-4295-11e6-93bc-855165429a4b.png)
 
 ##References:
-[Video Lectures](http://videolectures.net/icml2015_schulman_policy_optimization/)
+[ICML 2015 presentation](http://videolectures.net/icml2015_schulman_policy_optimization/)
 
 
 
