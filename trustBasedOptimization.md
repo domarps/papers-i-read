@@ -12,6 +12,16 @@ A policy update scheme with monotonic improvement guarantee has inspired a pract
 Consider a Markov Decision Process (MDP)
 ![image](https://cloud.githubusercontent.com/assets/7057078/16541782/00df1dd4-4042-11e6-8236-3c0659ab8f41.png)
 
+####Neat Identity:
+
+
+####Surrogate Loss Function:
+
+
+####MM Algorithm:
+The surrogate loss + KL penalty is guaranteed to improve the neta
+
+
 
 
 
