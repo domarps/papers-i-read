@@ -14,12 +14,21 @@ Consider a Markov Decision Process (MDP)
 
 ####Neat Identity:
 
+![image](https://cloud.githubusercontent.com/assets/7057078/16592295/e43b4554-4294-11e6-8730-4e88e03b7029.png)
 
 ####Surrogate Loss Function:
 
+![image](https://cloud.githubusercontent.com/assets/7057078/16592313/f6ec2d3a-4294-11e6-95b5-4a9b558b0405.png)
+
 
 ####MM Algorithm:
-The surrogate loss + KL penalty is guaranteed to improve the neta
+![image](https://cloud.githubusercontent.com/assets/7057078/16592346/1bdb79e8-4295-11e6-89f1-3bdc583698f1.png)
+
+####Improvement Theorem
+![image](https://cloud.githubusercontent.com/assets/7057078/16592330/0be48af2-4295-11e6-93bc-855165429a4b.png)
+
+##References:
+[Video Lectures](http://videolectures.net/icml2015_schulman_policy_optimization/)
 
 
 
