@@ -1,4 +1,4 @@
-Deep Reinforcement Learning With an Action Space Defined by Natural Language
+[Deep Reinforcement Learning With an Action Space Defined by Natural Language](http://arxiv.org/abs/1511.04636)
 ============================================================================
 
 The paper extends Deep Q-networks to “unbounded” action spaces effectively by generating action representations the environment provides and greedily choosing the action that provides the highest Q. A novel deep reinforcement relevance network(DRRN) is developed to handle actions defined through natural language in a text games setting. It is demonstrated that although the DRRN architecture uses fewer parameters, it converges faster than the baseline deep Q-networks.
