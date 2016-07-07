@@ -1,3 +1,6 @@
+## 2016-07
+- [Sequence to Sequence Learning with Neural Networks](https://github.com/domarps/papers-i-read/blob/master/seq2Seq.md) [[arXiv](https://arxiv.org/abs/1409.3215)]
+
 ## 2016-06
 - [Trust Region Policy Optimization](https://github.com/domarps/papers-i-read/blob/master/trustBasedOptimization.md) [[arXiv](https://arxiv.org/abs/1502.05477)]
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://github.com/domarps/papers-i-read/blob/master/end-to-end-LSTM.md) [[arXiv](https://arxiv.org/abs/1606.01269#)]
