@@ -1,4 +1,5 @@
 ## 2016-07
+- [Generative Adversarial Text to Image Synthesis](https://github.com/domarps/papers-i-read/blob/master/genAdversarial.md) [[arXiv](https://arxiv.org/abs/1605.05396)]
 - [Sequence to Sequence Learning with Neural Networks](https://github.com/domarps/papers-i-read/blob/master/seq2Seq.md) [[arXiv](https://arxiv.org/abs/1409.3215)]
 
 ## 2016-06
