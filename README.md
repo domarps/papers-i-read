@@ -1,4 +1,6 @@
 ## 2016-07
+- [Information-theoretical label embeddings for
+large-scale image classification] (https://github.com/domarps/papers-i-read/blob/master/infoTheoreticalEmb.md) [[arXiv](https://arxiv.org/abs/1607.05691)]
 - [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://github.com/domarps/papers-i-read/blob/master/copyMechanism.md) [[arXiv](https://arxiv.org/abs/1603.06393)]
 - [Deep Reinforcement Learning with a Combinatorial Action Space for Predicting and Tracking Popular Discussion Threads](https://github.com/domarps/papers-i-read/blob/master/discussionThreads.md) [[arXiv](https://arxiv.org/abs/1606.03667)]
 - [Generative Adversarial Text to Image Synthesis](https://github.com/domarps/papers-i-read/blob/master/genAdversarial.md) [[arXiv](https://arxiv.org/abs/1605.05396)]
