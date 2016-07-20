@@ -1,4 +1,5 @@
 ## 2016-07
+- [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://github.com/domarps/papers-i-read/blob/master/copyMechanism.md)
 - [Deep Reinforcement Learning with a Combinatorial Action Space for Predicting and Tracking Popular Discussion Threads](https://github.com/domarps/papers-i-read/blob/master/discussionThreads.md) [[arXiv](https://arxiv.org/abs/1606.03667)]
 - [Generative Adversarial Text to Image Synthesis](https://github.com/domarps/papers-i-read/blob/master/genAdversarial.md) [[arXiv](https://arxiv.org/abs/1605.05396)]
 - [Sequence to Sequence Learning with Neural Networks](https://github.com/domarps/papers-i-read/blob/master/seq2Seq.md) [[arXiv](https://arxiv.org/abs/1409.3215)]
