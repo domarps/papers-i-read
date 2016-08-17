@@ -1,3 +1,7 @@
+## 2016-08
+- [Model-Free Episodic Control](https://github.com/domarps/papers-i-read/blob/master/modelFreeEpisodicControl.md) [[arXiv](https://arxiv.org/abs/1606.04460)]
+- [Human-level control through deep reinforcement learning] (https://github.com/domarps/papers-i-read/blob/master/humanLevelControl.md) [[Nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
+
 ## 2016-07
 - [Information-theoretical label embeddings for
 large-scale image classification] (https://github.com/domarps/papers-i-read/blob/master/infoTheoreticalEmb.md) [[arXiv](https://arxiv.org/abs/1607.05691)]
