@@ -1,4 +1,5 @@
 ## 2016-08
+- [Deterministic Policy Gradients](https://github.com/domarps/papers-i-read/blob/master/deterministicPolicyGradients) [[JMLR](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
 - [Model-Free Episodic Control](https://github.com/domarps/papers-i-read/blob/master/modelFreeEpisodicControl.md) [[arXiv](https://arxiv.org/abs/1606.04460)]
 - [Human-level control through deep reinforcement learning] (https://github.com/domarps/papers-i-read/blob/master/humanLevelControl.md) [[Nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
 
