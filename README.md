@@ -1,3 +1,6 @@
+## 2017-06
+- [Rich feature hierarchies for accurate object detection and semantic segmentation] (https://github.com/domarps/papers-i-read/blob/master/R-CNN.md) [[arXiv](https://arxiv.org/abs/1311.2524)]
+
 ## 2016-08
 - [Deterministic Policy Gradients](https://github.com/domarps/papers-i-read/blob/master/deterministicPolicyGradients) [[JMLR](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
 - [Model-Free Episodic Control](https://github.com/domarps/papers-i-read/blob/master/modelFreeEpisodicControl.md) [[arXiv](https://arxiv.org/abs/1606.04460)]
