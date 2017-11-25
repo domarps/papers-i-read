@@ -6,9 +6,8 @@
 
 #### Method
 
-#Step 1 : Instance Level Segmentation 
-
-#Step 2 : Attribute Prediction 
+- Step 1 : Instance Level Segmentation 
+- Step 2 : Attribute Prediction 
 
 #### Applications
 
