@@ -3,6 +3,9 @@
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/domarps/papers-i-read/blob/master/ProGroGAN.md) [[NVIDIA](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]
 - [Dynamic Routing between Capsules](https://github.com/domarps/papers-i-read/blob/master/capsule.md) [[NIPS'17](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)]
 - [Spatial-Semantic Image Search by Visual Feature Synthesis](https://github.com/domarps/papers-i-read/blob/master/spatial_search.md) [[CVPR'17](http://web.cecs.pdx.edu/~fliu/papers/cvpr2017-search.pdf)]
+- [Composition Aware Search](https://github.com/domarps/papers-i-read/blob/master/CAS.md) [[arXiv/whitepaper](https://www.shutterstock.com/labs/compositionsearch/static/cas-final.pdf)]
+- [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://github.com/domarps/papers-i-read/blob/master/MTCNN.md) [[IEEE](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)]
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://github.com/domarps/papers-i-read/blob/master/faceNet.md) [[arXiv](https://arxiv.org/pdf/1503.03832.pdf)]
 
 
 ## 2017-10
@@ -12,7 +15,7 @@
 - [fast.ai : A Pytorch-first approach to AI](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 
 ## 2017-07/2017-08
-- `Tensorflow` and `boost`! Yes, i am deep learning in C++ -- no arXiv!
+- `Tensorflow` and `boost`! Yes, i am deep learning in C++ -- so no arXiv!!
 
 
 ## 2017-06
