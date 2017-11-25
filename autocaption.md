@@ -10,7 +10,7 @@
 
 #Step 2 : Attribute Prediction 
 
-Applications
+#### Applications
 
 - help improve image search 
 - help image captioning (segment objects + predict attributes) 
