@@ -12,6 +12,7 @@
 - Oh, hi tensorflow-1.4! Still no arXiv!!
 
 ## 2017-09
+- [A Convolutional Neural Network Cascade for Face Detection](https://github.com/domarps/papers-i-read/blob/master/CAS.md)[(http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)[CVPR'15]]
 - [fast.ai : A Pytorch-first approach to AI](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 
 ## 2017-07/2017-08
