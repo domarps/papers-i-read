@@ -1,5 +1,23 @@
+## 2017-11
+- [**TFX**: A TensorFlow-Based Production-Scale Machine Learning Platform](https://github.com/domarps/papers-i-read/blob/master/TFX.md) [[ACM](https://dl.acm.org/citation.cfm?id=3098021)]
+- [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/domarps/papers-i-read/blob/master/ProGroGAN.md) [[NVIDIA](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]
+- [Dynamic Routing between Capsules](https://github.com/domarps/papers-i-read/blob/master/capsule.md) [[NIPS'17](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)]
+- [Spatial-Semantic Image Search by Visual Feature Synthesis](https://github.com/domarps/papers-i-read/blob/master/spatial_search.md) [[CVPR'17](http://web.cecs.pdx.edu/~fliu/papers/cvpr2017-search.pdf)]
+
+
+## 2017-10
+- Oh, hi tensorflow-1.4! Still no arXiv!!
+
+## 2017-09
+- [fast.ai : A Pytorch-first approach to AI](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
+
+## 2017-07/2017-08
+- `Tensorflow` and `boost`! Yes, i am deep learning in C++ -- no arXiv!
+
+
 ## 2017-06
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://github.com/domarps/papers-i-read/blob/master/R-CNN.md) [[arXiv](https://arxiv.org/abs/1311.2524)]
+
 
 ## 2016-08
 - [Deterministic Policy Gradients](https://github.com/domarps/papers-i-read/blob/master/deterministicPolicyGradients) [[JMLR](http://jmlr.org/proceedings/papers/v32/silver14.pdf)]
