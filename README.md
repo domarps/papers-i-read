@@ -6,6 +6,7 @@
 - [Composition Aware Search](https://github.com/domarps/papers-i-read/blob/master/CAS.md) [[arXiv/whitepaper](https://www.shutterstock.com/labs/compositionsearch/static/cas-final.pdf)]
 - [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://github.com/domarps/papers-i-read/blob/master/MTCNN.md) [[IEEE](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)]
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://github.com/domarps/papers-i-read/blob/master/faceNet.md) [[arXiv](https://arxiv.org/pdf/1503.03832.pdf)]
+- [Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition](https://github.com/domarps/papers-i-read/blob/master/autocaption.md) [[CVPR'17](http://acsweb.ucsd.edu/~yuw176/report/cvpr_2017.pdf)]
 
 
 ## 2017-10
