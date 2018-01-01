@@ -1,3 +1,9 @@
+## 2017-12
+- [What’s your ML test score? A rubric for ML production systems](https://github.com/domarps/papers-i-read/blob/master/ml-test-score.md) [[Google Research](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45742.pdf)]
+- [Cyclical Learning Rates for Training Neural Networks](https://medium.com/@domarps/democratizing-state-of-the-art-sota-techniques-in-ai-6bb473fed44a) [[arXiv](https://arxiv.org/abs/1506.01186)]
+- [Snapshot Ensembles : Train 1, Get M for free](https://medium.com/@domarps/democratizing-state-of-the-art-sota-techniques-in-ai-6bb473fed44a) [[arXiv](https://arxiv.org/pdf/1704.00109.pdf)]
+
+
 ## 2017-11
 - [**TFX**: A TensorFlow-Based Production-Scale Machine Learning Platform](https://github.com/domarps/papers-i-read/blob/master/TFX.md) [[ACM](https://dl.acm.org/citation.cfm?id=3098021)]
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/domarps/papers-i-read/blob/master/ProGroGAN.md) [[NVIDIA](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]
