@@ -1,3 +1,5 @@
+## 2018-01
+- [Fine-tuned Language Models for Text Classification](https://github.com/domarps/papers-i-read/blob/master/fitLAM.md) [[arXiv](https://arxiv.org/abs/1801.06146)]
 ## 2017-12
 - [What’s your ML test score? A rubric for ML production systems](https://github.com/domarps/papers-i-read/blob/master/ml-test-score.md) [[Google Research](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45742.pdf)]
 - [Cyclical Learning Rates for Training Neural Networks](https://medium.com/@domarps/democratizing-state-of-the-art-sota-techniques-in-ai-6bb473fed44a) [[arXiv](https://arxiv.org/abs/1506.01186)]
