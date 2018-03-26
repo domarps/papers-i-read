@@ -1,4 +1,5 @@
 ## 2018-03
+- [ScaledML 2018](https://medium.com/@domarps/the-scaled-ml-conference-2018-e1df716abc58)
 - [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://dl.acm.org/citation.cfm?doid=3097983.3098171)
 ## 2018-01
 - [Fine-tuned Language Models for Text Classification](https://github.com/domarps/papers-i-read/blob/master/fitLAM.md) [[arXiv](https://arxiv.org/abs/1801.06146)]
