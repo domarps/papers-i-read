@@ -1,3 +1,8 @@
+## 2018-04
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+- [CycleGAN, a Master of Steganography](https://arxiv.org/pdf/1712.02950.pdf)
+- [Image to Image translation with Conditional Adversarial Networks](https://github.com/phillipi/pix2pix)
+
 ## 2018-03
 - [ScaledML 2018](https://medium.com/@domarps/the-scaled-ml-conference-2018-e1df716abc58)
 - [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://dl.acm.org/citation.cfm?doid=3097983.3098171)
