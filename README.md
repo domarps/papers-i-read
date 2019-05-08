@@ -1,3 +1,20 @@
+## 2019-04
+
+- [A survey of Product Quantization](https://www.jstage.jst.go.jp/article/mta/6/1/6_2/_article/-char/en)
+- [Product Quantization for Nearest neighbor search](https://lear.inrialpes.fr/pubs/2011/JDS11/jegou_searching_with_quantization.pdf)
+
+
+## 2019-03
+- [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+
+
+## 2019-02
+- [Concept Mask: Large-Scale Segmentation from Semantic Concepts](https://arxiv.org/abs/1808.06032)
+
+## 2018-06 - 2019-01
+
+Something really terrible happened 
+
 ## 2018-04
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
 - [CycleGAN, a Master of Steganography](https://arxiv.org/pdf/1712.02950.pdf)
