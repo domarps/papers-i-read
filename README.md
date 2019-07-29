@@ -20,7 +20,7 @@ of Neural Networks](https://arxiv.org/pdf/1907.05686.pdf)
 
 ## 2018-06 - 2019-01
 
-Something really terrible happened 
+What was Pramod doing?
 
 ## 2018-04
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
