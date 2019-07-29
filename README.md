@@ -1,3 +1,10 @@
+## 2019-07
+- [And the Bit Goes Down: Revisiting the Quantization
+of Neural Networks](https://arxiv.org/pdf/1907.05686.pdf)
+
+## 2019-06
+- [Applying Deep Learning to Airbnb Search](https://arxiv.org/abs/1810.09591)
+
 ## 2019-04
 
 - [A survey of Product Quantization](https://www.jstage.jst.go.jp/article/mta/6/1/6_2/_article/-char/en)
